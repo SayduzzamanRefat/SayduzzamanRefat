@@ -9,7 +9,7 @@ Skills: HTML / CSS / JavaScript / jQuery / Bootstrap / PHP / Wordpress
 - 🔭 I’m currently working on Back-end Development 
 - 🌱 I’m currently learning php 
 - 💬 Ask me about Html5 / Css3 / JavaScript / jQuery / Bootstrap4 / php / Wordpress Customization 
-- 📫 How to reach me: [Facebook](https://www.facebook.com/sayduzzaman.refat/), https://twitter.com/SayduzzamanRef1, [Twitter](https://www.linkedin.com/in/sayduzzaman-refat-82346b1b1/), [Instagram](https://www.instagram.com/sayduzzaman_refat/) 
+- 📫 How to reach me: [Facebook](https://www.facebook.com/sayduzzaman.refat/), [Linkedin](https://www.linkedin.com/in/sayduzzaman-refat-82346b1b1/), [Twitter](https://www.linkedin.com/in/sayduzzaman-refat-82346b1b1/), [Instagram](https://www.instagram.com/sayduzzaman_refat/) 
 - ⚡ Fun fact: Watching Movies, Listening Songs, Reading Books, Drinking Coffee
 
 
