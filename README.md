@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Sayduzzaman Refat
+### Hi there 👋, My name is [Sayduzzaman Refat](https://www.facebook.com/sayduzzaman.refat/)
 #### I am Web Designer & Developer
 ![I am Web Designer & Developer](https://1.bp.blogspot.com/-xFkvZUO2kno/X_SYx8KNiII/AAAAAAAAAOg/Af8V68lGV5wfrX921OjD8TKzffNBq2magCLcBGAsYHQ/s700/Untitled%2Bdesign.png)
 
@@ -9,8 +9,8 @@ Skills: HTML / CSS / JavaScript / jQuery / Bootstrap / PHP / Wordpress
 - 🔭 I’m currently working on Back-end Development 
 - 🌱 I’m currently learning php 
 - 💬 Ask me about Html5 / Css3 / JavaScript / jQuery / Bootstrap4 / php / Wordpress Customization 
-- 📫 How to reach me: Facebook, Twitter, Linkedin, Instagram 
-- ⚡ Fun fact: Watching Movies, Listening Songs, Reading Books, Drinking Coffee 
+- 📫 How to reach me: [Facebook](https://www.facebook.com/sayduzzaman.refat/), https://twitter.com/SayduzzamanRef1, [Twitter](https://www.linkedin.com/in/sayduzzaman-refat-82346b1b1/), [Instagram](https://www.instagram.com/sayduzzaman_refat/) 
+- ⚡ Fun fact: Watching Movies, Listening Songs, Reading Books, Drinking Coffee
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SayduzzamanRefat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sayduzzaman-refat-82346b1b1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sayduzzaman.refat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sayduzzaman_refat/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SayduzzamanRef1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14945960/sayduzzaman-refat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://devrefat.com)  
