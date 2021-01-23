@@ -2,7 +2,8 @@
 #### I am Web Designer & Developer
 ![I am Web Designer & Developer](https://1.bp.blogspot.com/-xFkvZUO2kno/X_SYx8KNiII/AAAAAAAAAOg/Af8V68lGV5wfrX921OjD8TKzffNBq2magCLcBGAsYHQ/s700/Untitled%2Bdesign.png)
 
-I am a Professional Web designer & Developer. I have 3 years of experience in this sector. I have certain qualities that make me good at this. I am a dedicated and hard-working person who believes in honesty and good working relation. I have created many types of websites such as Corporate, Business, E-commerce, Portfolio, Blogs, Educational, etc.  THANK YOU FOR VISITING MY PROFILE.
+I am an experienced web developer who is self-motivated and open to learning.
+My strong suits are conceptual thinking and analytical thinking.
 
 Skills: HTML / CSS / JavaScript / jQuery / Bootstrap / PHP / Wordpress
 
